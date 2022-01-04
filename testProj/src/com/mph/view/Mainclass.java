@@ -7,6 +7,8 @@ public class Mainclass {
 	    Method m = new Method();
 	    m.Method1();
 	    m.Method2();
+	    m.Method3();
+		
 	}
 
 }
