@@ -3,7 +3,7 @@ package com.mph.view;
 public class Method {
 
 	public void Method1() {
-		System.out.println("Good Morning");
+		System.out.println("Good night");
 		
 	}
 	public void Method2() {
