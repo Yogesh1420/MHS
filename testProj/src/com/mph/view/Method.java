@@ -10,7 +10,8 @@ public class Method {
 		System.out.println("Good afternoon");
 		
 	}
-	
-	
+	public void Method3(){
+		system.out.println("Welcome Guys");
+	}
 
 }
