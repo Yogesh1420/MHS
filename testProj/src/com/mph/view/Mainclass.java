@@ -9,6 +9,7 @@ public class Mainclass {
 	    m.Method2();
 	    m.Method3();
 	    m.Method4();
+            m.Method5();
 	}
 
 }
