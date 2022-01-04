@@ -13,5 +13,8 @@ public class Method {
 	public void Method3(){
 		system.out.println("Welcome Guys");
 	}
-
+        public void Method4(){
+		system.out.println("Hello Guys");
+	}
+         
 }
