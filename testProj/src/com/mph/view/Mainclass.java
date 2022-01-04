@@ -8,7 +8,7 @@ public class Mainclass {
 	    m.Method1();
 	    m.Method2();
 	    m.Method3();
-		
+	    m.Method4();
 	}
 
 }
