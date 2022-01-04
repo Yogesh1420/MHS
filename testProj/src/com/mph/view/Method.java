@@ -16,5 +16,9 @@ public class Method {
         public void Method4(){
 		system.out.println("Hello Guys");
 	}
+	 public void Method5(){
+		system.out.println("Hello");
+	}
+         
          
 }
