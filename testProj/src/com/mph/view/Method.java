@@ -7,7 +7,7 @@ public class Method {
 		
 	}
 	public void Method2() {
-		System.out.println("Good afternoon");
+		System.out.println("Good evng");
 		
 	}
 	public void Method3(){
