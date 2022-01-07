@@ -10,6 +10,7 @@ import com.mph.controller.MHSContoller;
 public class Main {
 
 	public static void main(String[] args) throws IOException {
+		System.out.println("Hi Yogz");
 		Scanner sc = new Scanner(System.in);
 		
 		MHSContoller mhs = new MHSContoller();
